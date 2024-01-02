@@ -29,7 +29,7 @@ npm
 Contributions to this package are welcome. Please fork the repository and submit a pull request.
 
 ## License
-This project is licensed under the ISC License.
+This project is licensed under the GNU GPLv3 License.
 
 Support and Contact
 For support, bug reports, or feature requests, please open an issue on the GitHub repository:
